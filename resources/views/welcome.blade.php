@@ -13,6 +13,8 @@
             <div class="col">
                 <div class="d-flex justify-content-center align-items-center vh-100">
                     <h1 class="text-white fw-bolder">Te amo mi amor 🥵</h1>
+                    <h1 class="text-white fw-bolder">Yamilet 🥵</h1>
+                    
                 </div>
             </div>
         </div>
